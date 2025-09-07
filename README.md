@@ -41,4 +41,4 @@ Part of my ES6+ practice projects. A clean, responsive weather application built
 
 - Responsive UI with CSS Grid/Flexbox
 
-Clean code structure (SOLID principles inspired)
+- Clean code structure (SOLID principles inspired)
