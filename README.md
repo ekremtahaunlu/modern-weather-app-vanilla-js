@@ -1,11 +1,11 @@
 # 🌦️ Responsive Weather App
 Vanilla JavaScript Weather App | ES6+ Classes, Fetch API, LocalStorage | Responsive UI with modern CSS
 
-🌍 Modern Weather App
+## 🌍 Modern Weather App
 
 Part of my ES6+ practice projects. A clean, responsive weather application built with vanilla JavaScript and OpenWeatherMap API.
 
-🚀 Features
+## 🚀 Features
 
 ✅ Search weather by city name
 📍 Get current location weather (Geolocation API)
@@ -15,30 +15,30 @@ Part of my ES6+ practice projects. A clean, responsive weather application built
 📱 Mobile-first responsive design
 ⚡ Loading & error states
 
-🛠️ Technologies
+## 🛠️ Technologies
 
-Vanilla JavaScript (ES6+)
+- Vanilla JavaScript (ES6+)
 
-OpenWeatherMap API (Current Weather + 5-Day Forecast)
+- OpenWeatherMap API (Current Weather + 5-Day Forecast)
 
-HTML5 & CSS3
+- HTML5 & CSS3
 
-LocalStorage API
+- LocalStorage API
 
-Modern CSS (Flexbox, Grid, Media Queries)
+- Modern CSS (Flexbox, Grid, Media Queries)
 
-📚 Learning Focus
+## 📚 Learning Focus
 
-ES6+ Classes & Modules
+- ES6+ Classes & Modules
 
-Fetch API (async/await)
+- Fetch API (async/await)
 
-Destructuring & Template Literals
+- Destructuring & Template Literals
 
-Array Methods (map, filter)
+- Array Methods (map, filter)
 
-State management with LocalStorage
+- State management with LocalStorage
 
-Responsive UI with CSS Grid/Flexbox
+- Responsive UI with CSS Grid/Flexbox
 
 Clean code structure (SOLID principles inspired)
