@@ -28,7 +28,37 @@
     </section>
 
     <!--Current Weather-->
-    
+    <section class="card current" id="currentCard">
+      <div class="meta">
+        <div>
+          <div id="city" style="font-weight: 700; font-size: 20px;">-</div>
+          <div id="time" class="muted">-</div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="temp" id="temp">-</div>
+        <div class="feels" id="desc">-</div>
+      </div>
+      <div class="row" id="stats">
+        <!-- pills injected -->
+      </div>
+    </section>
+
+    <!--Forecast & Sidebar-->
+    <section class="card span-2">
+      <h3>5-Day Forecast</h3>
+      <div class="forecast" id="forecast"></div>
+    </section>
+
+    <aside class="card">
+      <h3>Recent Searches</h3>
+      <div id="recent" class="recent"></div>
+    </aside>
+
+    <aside class="card">
+      <h3>Error / Status</h3>Ready ✅</div>
+    </aside>
   </div>
 
   <script src="script.js"></script>
